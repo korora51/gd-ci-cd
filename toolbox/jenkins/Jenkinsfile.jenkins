@@ -15,7 +15,7 @@ pipeline  {
             steps {
                 echo 'Creating docker image ...'
                 dir('.'){
-                    echo "First step works"
+                    echo "First step works  ..."
                 }
             }
         }
